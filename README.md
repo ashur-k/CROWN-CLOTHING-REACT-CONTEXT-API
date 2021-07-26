@@ -1,5 +1,5 @@
 # Live URL:
-  <a target="_blank">https://ash-crwn-live.herokuapp.com/</a>
+  <a href="https://ash-crwn-live.herokuapp.com/" target="_blank">Crwn-clothing live link</a>
   
 
 # My Experience and what I learn:
