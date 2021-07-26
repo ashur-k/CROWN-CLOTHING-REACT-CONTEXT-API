@@ -1,7 +1,6 @@
 # My Experience and what I learn:
 In this lesson I learn about setting up react context-API and how to implement them. First forked and clone starting part of lesson (provided by Udemy). Then wrote context codes while watching video. Cloning and installing repo was challenge. There were issues with node-sass and react-scripts and react versions. Solving version issues was challenging but helped me to know about node version manager, package.json file, differences between dependencies and dev dependencies. I find out some differences between time npm and yarn. Overall once all these problems were solve I really enjoyed writing context-codes and had learned a great deal.    
 
-Replacing local state management from redux to the new context API. This repository is our application before we introduced sagas to handle our asynchronous code, which is a good starting point to make the appropriate changes!
 
 # How to fork and clone
 
